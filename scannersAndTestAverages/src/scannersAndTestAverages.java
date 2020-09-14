@@ -1,11 +1,3 @@
-/*------------------------------------------------------------
-// AUTHOR:  Donovan Moses
-// FILENAME: scannersAndTestAverages
-// SPECIFICATION: File with main method and statements
-// FOR: CSE 110- Lab #1
-// TIME SPENT: HOW LONG IT TOOK YOU TO FINISH THIS LAB //--------------------
----------------------------------------*/
-
 import java.util.Scanner;
 
 public class scannersAndTestAverages {
